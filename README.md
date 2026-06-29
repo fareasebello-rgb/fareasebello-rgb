@@ -1,5 +1,5 @@
 <h1>Hi, I'm Faiz! <br/>
-Data Analyst | Front End Developer
+Data Scientist | Front End Developer
 </h1>
 
 <h3>🛠️ Tech Stack & Skills</h3>
