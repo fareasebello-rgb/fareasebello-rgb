@@ -1,5 +1,5 @@
 <h1>Hi, I'm Faiz! <br/>
-Data Scientist | Front End Developer
+Data Analyst 
 </h1>
 
 <h3>🛠️ Tech Stack & Skills</h3>
@@ -7,11 +7,7 @@ Data Scientist | Front End Developer
 <p>
   <img src="https://img.shields.io/badge/Object%20Oriented%20Programming-4B5563?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
 <h2>👨‍💻 Project</h2>
